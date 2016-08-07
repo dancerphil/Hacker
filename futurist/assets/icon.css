@@ -1,0 +1,345 @@
+.icon {
+  float: left;
+  width: 70px;
+  height: 104px;
+  position: relative;
+  background: #F3F2E2 url(glyph.png) no-repeat;
+  margin: 20px; }
+
+.i0j0 {
+  background-position: 0% 0%; }
+
+.i0j1 {
+  background-position: 0% 14.28571%; }
+
+.i0j2 {
+  background-position: 0% 28.57143%; }
+
+.i0j3 {
+  background-position: 0% 42.85714%; }
+
+.i0j4 {
+  background-position: 0% 57.14286%; }
+
+.i0j5 {
+  background-position: 0% 71.42857%; }
+
+.i0j6 {
+  background-position: 0% 85.71429%; }
+
+.i0j7 {
+  background-position: 0% 100%; }
+
+.i1j0 {
+  background-position: 7.69231% 0%; }
+
+.i1j1 {
+  background-position: 7.69231% 14.28571%; }
+
+.i1j2 {
+  background-position: 7.69231% 28.57143%; }
+
+.i1j3 {
+  background-position: 7.69231% 42.85714%; }
+
+.i1j4 {
+  background-position: 7.69231% 57.14286%; }
+
+.i1j5 {
+  background-position: 7.69231% 71.42857%; }
+
+.i1j6 {
+  background-position: 7.69231% 85.71429%; }
+
+.i1j7 {
+  background-position: 7.69231% 100%; }
+
+.i2j0 {
+  background-position: 15.38462% 0%; }
+
+.i2j1 {
+  background-position: 15.38462% 14.28571%; }
+
+.i2j2 {
+  background-position: 15.38462% 28.57143%; }
+
+.i2j3 {
+  background-position: 15.38462% 42.85714%; }
+
+.i2j4 {
+  background-position: 15.38462% 57.14286%; }
+
+.i2j5 {
+  background-position: 15.38462% 71.42857%; }
+
+.i2j6 {
+  background-position: 15.38462% 85.71429%; }
+
+.i2j7 {
+  background-position: 15.38462% 100%; }
+
+.i3j0 {
+  background-position: 23.07692% 0%; }
+
+.i3j1 {
+  background-position: 23.07692% 14.28571%; }
+
+.i3j2 {
+  background-position: 23.07692% 28.57143%; }
+
+.i3j3 {
+  background-position: 23.07692% 42.85714%; }
+
+.i3j4 {
+  background-position: 23.07692% 57.14286%; }
+
+.i3j5 {
+  background-position: 23.07692% 71.42857%; }
+
+.i3j6 {
+  background-position: 23.07692% 85.71429%; }
+
+.i3j7 {
+  background-position: 23.07692% 100%; }
+
+.i4j0 {
+  background-position: 30.76923% 0%; }
+
+.i4j1 {
+  background-position: 30.76923% 14.28571%; }
+
+.i4j2 {
+  background-position: 30.76923% 28.57143%; }
+
+.i4j3 {
+  background-position: 30.76923% 42.85714%; }
+
+.i4j4 {
+  background-position: 30.76923% 57.14286%; }
+
+.i4j5 {
+  background-position: 30.76923% 71.42857%; }
+
+.i4j6 {
+  background-position: 30.76923% 85.71429%; }
+
+.i4j7 {
+  background-position: 30.76923% 100%; }
+
+.i5j0 {
+  background-position: 38.46154% 0%; }
+
+.i5j1 {
+  background-position: 38.46154% 14.28571%; }
+
+.i5j2 {
+  background-position: 38.46154% 28.57143%; }
+
+.i5j3 {
+  background-position: 38.46154% 42.85714%; }
+
+.i5j4 {
+  background-position: 38.46154% 57.14286%; }
+
+.i5j5 {
+  background-position: 38.46154% 71.42857%; }
+
+.i5j6 {
+  background-position: 38.46154% 85.71429%; }
+
+.i5j7 {
+  background-position: 38.46154% 100%; }
+
+.i6j0 {
+  background-position: 46.15385% 0%; }
+
+.i6j1 {
+  background-position: 46.15385% 14.28571%; }
+
+.i6j2 {
+  background-position: 46.15385% 28.57143%; }
+
+.i6j3 {
+  background-position: 46.15385% 42.85714%; }
+
+.i6j4 {
+  background-position: 46.15385% 57.14286%; }
+
+.i6j5 {
+  background-position: 46.15385% 71.42857%; }
+
+.i6j6 {
+  background-position: 46.15385% 85.71429%; }
+
+.i6j7 {
+  background-position: 46.15385% 100%; }
+
+.i7j0 {
+  background-position: 53.84615% 0%; }
+
+.i7j1 {
+  background-position: 53.84615% 14.28571%; }
+
+.i7j2 {
+  background-position: 53.84615% 28.57143%; }
+
+.i7j3 {
+  background-position: 53.84615% 42.85714%; }
+
+.i7j4 {
+  background-position: 53.84615% 57.14286%; }
+
+.i7j5 {
+  background-position: 53.84615% 71.42857%; }
+
+.i7j6 {
+  background-position: 53.84615% 85.71429%; }
+
+.i7j7 {
+  background-position: 53.84615% 100%; }
+
+.i8j0 {
+  background-position: 61.53846% 0%; }
+
+.i8j1 {
+  background-position: 61.53846% 14.28571%; }
+
+.i8j2 {
+  background-position: 61.53846% 28.57143%; }
+
+.i8j3 {
+  background-position: 61.53846% 42.85714%; }
+
+.i8j4 {
+  background-position: 61.53846% 57.14286%; }
+
+.i8j5 {
+  background-position: 61.53846% 71.42857%; }
+
+.i8j6 {
+  background-position: 61.53846% 85.71429%; }
+
+.i8j7 {
+  background-position: 61.53846% 100%; }
+
+.i9j0 {
+  background-position: 69.23077% 0%; }
+
+.i9j1 {
+  background-position: 69.23077% 14.28571%; }
+
+.i9j2 {
+  background-position: 69.23077% 28.57143%; }
+
+.i9j3 {
+  background-position: 69.23077% 42.85714%; }
+
+.i9j4 {
+  background-position: 69.23077% 57.14286%; }
+
+.i9j5 {
+  background-position: 69.23077% 71.42857%; }
+
+.i9j6 {
+  background-position: 69.23077% 85.71429%; }
+
+.i9j7 {
+  background-position: 69.23077% 100%; }
+
+.i10j0 {
+  background-position: 76.92308% 0%; }
+
+.i10j1 {
+  background-position: 76.92308% 14.28571%; }
+
+.i10j2 {
+  background-position: 76.92308% 28.57143%; }
+
+.i10j3 {
+  background-position: 76.92308% 42.85714%; }
+
+.i10j4 {
+  background-position: 76.92308% 57.14286%; }
+
+.i10j5 {
+  background-position: 76.92308% 71.42857%; }
+
+.i10j6 {
+  background-position: 76.92308% 85.71429%; }
+
+.i10j7 {
+  background-position: 76.92308% 100%; }
+
+.i11j0 {
+  background-position: 84.61538% 0%; }
+
+.i11j1 {
+  background-position: 84.61538% 14.28571%; }
+
+.i11j2 {
+  background-position: 84.61538% 28.57143%; }
+
+.i11j3 {
+  background-position: 84.61538% 42.85714%; }
+
+.i11j4 {
+  background-position: 84.61538% 57.14286%; }
+
+.i11j5 {
+  background-position: 84.61538% 71.42857%; }
+
+.i11j6 {
+  background-position: 84.61538% 85.71429%; }
+
+.i11j7 {
+  background-position: 84.61538% 100%; }
+
+.i12j0 {
+  background-position: 92.30769% 0%; }
+
+.i12j1 {
+  background-position: 92.30769% 14.28571%; }
+
+.i12j2 {
+  background-position: 92.30769% 28.57143%; }
+
+.i12j3 {
+  background-position: 92.30769% 42.85714%; }
+
+.i12j4 {
+  background-position: 92.30769% 57.14286%; }
+
+.i12j5 {
+  background-position: 92.30769% 71.42857%; }
+
+.i12j6 {
+  background-position: 92.30769% 85.71429%; }
+
+.i12j7 {
+  background-position: 92.30769% 100%; }
+
+.i13j0 {
+  background-position: 100% 0%; }
+
+.i13j1 {
+  background-position: 100% 14.28571%; }
+
+.i13j2 {
+  background-position: 100% 28.57143%; }
+
+.i13j3 {
+  background-position: 100% 42.85714%; }
+
+.i13j4 {
+  background-position: 100% 57.14286%; }
+
+.i13j5 {
+  background-position: 100% 71.42857%; }
+
+.i13j6 {
+  background-position: 100% 85.71429%; }
+
+.i13j7 {
+  background-position: 100% 100%; }
+
+/*# sourceMappingURL=icon.css.map */

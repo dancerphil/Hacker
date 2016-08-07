@@ -1,5 +1,17 @@
 
 const initialState = {
+	glyphs: [
+		{a: {
+			i: 0,
+			j: 3,
+			score: 0
+		},
+		b: {
+			i: 9,
+			j: 3,
+			score: 0
+		}}
+	],
 	text: 'Hello'
 }
 function myApp(state = initialState, action) {
@@ -14,7 +26,8 @@ function myApp(state = initialState, action) {
 			}
 		default:
 			return {
-				text:'Hello'
+				glyphs: state.glyphs,
+				text: 'Hello'
 			};
 	}
 }

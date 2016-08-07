@@ -1,0 +1,17 @@
+$idx: 100%/13;
+$idx2: 100%/7;
+.icon {
+	float:left;
+	width:70px;
+	height:104px;
+	position:relative;
+	background: #F3F2E2 url(glyph.png) no-repeat;
+	margin: 20px;
+}
+@for $i from 0 through 13 {
+	@for $j from 0 through 7 {
+		.i#{$i}j#{$j} {
+			background-position: $i*$idx $j*$idx2;
+		}
+	}
+}
