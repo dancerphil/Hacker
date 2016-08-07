@@ -1,20 +1,20 @@
 import React from "react"
 
-class Hello extends React.Component{
+class Change extends React.Component{
   constructor(props) {
     super(props);
     this.handleClick = this.handleClick.bind(this);
   }
 
   handleClick(){
-    this.props.actions.changeText();
+    this.props.actions.buttonClick();
   }
 
   render() {
     return (
-      <h1 onClick={this.handleClick}> {this.props.text} </h1>
+      <button onClick={this.handleClick} >change</button>
     );
   }
 }
 
-export default Hello
+export default Change
