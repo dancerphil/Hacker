@@ -10,11 +10,12 @@ class Container extends React.Component{
 	}
 
 	render() {
-		const { actions, state} = this.props;
+		const { actions, state } = this.props;
+		console.log(state.dynamicState.length)
 		return (
 			<div>
-				<IconCouple glyphs={state.glyphs[0]} />
-				<Hello actions={actions} text={state.text} />
+				<IconCouple glyphs={state.glyphs[state.dynamicState.index]} />
+				<Hello actions={actions} index={state.dynamicState.index} />
 				<Change actions={actions} />
 			</div>
 		);

@@ -7,12 +7,11 @@ class Hello extends React.Component{
 
 	handleClick(){
 		const {actions} = this.props;
-		actions.changeText();
 	}
 
 	render() {
 		return (
-			<h1 onClick={this.handleClick}> {this.props.text} </h1>
+			<h1 onClick={this.handleClick}> {this.props.index} </h1>
 		);
 	}
 }

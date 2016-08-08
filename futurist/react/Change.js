@@ -7,7 +7,7 @@ class Change extends React.Component{
 
 	handleClick(){
 		const {actions} = this.props;
-		actions.buttonClick();
+		actions.next();
 	}
 
 	render() {
