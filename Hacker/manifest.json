@@ -3,7 +3,7 @@
 	"description": "Click And Edit",
 	"version": "1.0",
 	"permissions": [
-		"activeTab"
+		"tabs", "http://*/*", "https://*/*"
 	],
 	"background": {
 		"scripts": ["index.js"],
